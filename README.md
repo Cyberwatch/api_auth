@@ -209,6 +209,10 @@ Rails app:
     end
 ```
 
+## Old Rails and Ruby version
+
+ApiAuth drop the support of Ruby 1.X, Rails 2.X, Rails 3.X after the version v2.1.0.
+
 ## Development
 
 ApiAuth uses bundler for gem dependencies and RSpec for testing. Developing the
